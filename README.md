@@ -1,6 +1,6 @@
 # Aplikasi Pesanan
 
-![Banner](https://github.com/HadZzz/aplikasi-pesanan/blob/main/assets/images/WhatsApp Image 2024-12-19 at 12.25.09(6).jpeg)
+![Banner](https://github.com/HadZzz/aplikasi-pesanan/blob/main/assets/images/WhatsApp%20Image%202024-12-19%20at%2012.25.09(6).jpeg)
 
 Aplikasi Pesanan is a TypeScript-based application designed to manage orders efficiently.
 
